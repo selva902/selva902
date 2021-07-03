@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @selva902
+- 👋 Hi, I’m selvamani
 - 👀 I’m interested in developing algorithms
 - 🌱 I’m currently learning java and c++
 - 🏅 Topcoder TC021-parallel round winner
