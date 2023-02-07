@@ -10,8 +10,6 @@
 - 🔭 I’m currently working on [Sepsis Prediction using various ML Algorithms](https://github.com/)
 
 - 📫 How to reach me **selvamani2811@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
