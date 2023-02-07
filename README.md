@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Selvamani</h1>
-<h3 align="center">current student 👨‍💻,looking to join workforce 📄</h3>
+<h3 align="center">currently a student 👨‍💻,looking for jobs📄</h3>
+<h3 align="center">Highly intrested in Data science📈 (analysing and preparing data), Automating,Developing and maintaining data by Artificial intelligence🤖</h3>
+<h3 align="center">Strong Knowledge in Machine Learning Algorithms (Supervised and Unsupervised) </h3>
+<h3 align="center">Self Motivated💪and enthusiastic😀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selva902&label=Profile%20views&color=0e75b6&style=flat" alt="selva902" /> </p>
 
-- 🔭 I’m currently working on [Handwritten Digit Recognition System](https://github.com/IBM-EPBL/IBM-Project-4380-1658730738)
+- 🔭 I’m currently working on [Sepsis Prediction using various ML Algorithms](https://github.com/)
 
-- 🌱 I’m currently learning **Tensorflow 2 and Keras DeepLearning**
-
-- 📫 How to reach me **maniselva902@gmail.com**
+- 📫 How to reach me **selvamani2811@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
