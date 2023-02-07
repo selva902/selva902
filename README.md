@@ -3,7 +3,7 @@
 <h3 align="center">Highly intrested in Data science📈 (analysing and preparing data)</h3>
 <h3 align="center">Strong Knowledge in Machine Learning Algorithms (Supervised and Unsupervised)</h3>
 <h3 align="center">Hands on experience in Automating,Developing,Depolying and Maintaining data by Artificial intelligence🤖</h3>
-<h3 align="center">Self Motivated💪and enthusiastic😀</h3>
+<h3 align="center">Self Motivated💪and Enthusiastic😀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selva902&label=Profile%20views&color=0e75b6&style=flat" alt="selva902" /> </p>
 
