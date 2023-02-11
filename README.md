@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selva902&label=Profile%20views&color=0e75b6&style=flat" alt="selva902" /> </p>
 
-- 🔭 I’m currently working on [Sepsis Prediction using various ML Algorithms](https://github.com/)
+- 🔭 I’m currently working on [Sepsis Prediction using Machine Learning](https://github.com/selva902/Early-Sepsis-Prediction-Using-Machine-Learning)
 
 - 📫 How to reach me **selvamani2811@gmail.com**
 <p align="left">
